@@ -1,5 +1,6 @@
 # Blackjack Strategy Advisor
 Blackjack Strategy Advisor is a web-based tool that helps players make optimal decisions based on basic blackjack strategy. By selecting the dealer's up card and your hand, the advisor provides recommendations such as "Hit", "Stand", "Double Down", or "Split", along with win probabilities and expected value calculations.
+
 -- See Preview: https://codepen.io/cavigidor/pen/NWQJLdv
 
 ## Features
