@@ -23,7 +23,7 @@ JavaScript (Vanilla): Core game logic and interactivity.
 
 No libraries or frameworks required – lightweight and fast.
 
-#Getting Started
+## Getting Started
 Clone or download the repository.
 
 Open index.html in your browser.
